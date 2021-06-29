@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T03:21:16.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="M6P-4AtSTU5l3pYGqCOY" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T03:25:37.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6PeMtxPgUDbsbfSpychK" version="14.8.2" type="github">
   <diagram id="SUyYBRM5Ereph7z5FHVE" name="Page-1">
     <mxGraphModel dx="3005" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -983,6 +983,12 @@
         </mxCell>
         <mxCell id="5I4GJiklxZvYFQcEl-Lj-68" value="高优先级打断低优先级的饥饿问题处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1F5AFF;" vertex="1" parent="1">
           <mxGeometry x="2160" y="960" width="130.53" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5I4GJiklxZvYFQcEl-Lj-71" value="高优先级插队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1F5AFF;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1040" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5I4GJiklxZvYFQcEl-Lj-73" value="优先级相同的任务，则将新旧任务都放在一起执行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1F5AFF;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1000" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
